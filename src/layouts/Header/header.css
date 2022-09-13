@@ -1,0 +1,21 @@
+.navbar{
+    vertical-align: middle;
+    padding-top: 20px ;
+}
+.navbar ul{
+    list-style: none;
+    margin-left: 180px;
+}
+.navbar ul li{
+    font-family: "Brandon Text",sans-serif !important;
+    display: inline-block;
+    padding: 10px;
+    font-size: 13px;
+    vertical-align: middle;
+    font-weight: bold;
+    color: #5894af;
+    cursor: pointer;
+}
+.navbar ul li:hover{
+    color: #6666FF;
+}
