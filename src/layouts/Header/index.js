@@ -1,9 +1,7 @@
 import React, { Fragment } from "react";
 import "./header.css";
-import { Input } from "antd";
 
 const Header = () => {
-    const {Search} = Input;
     return(
         <Fragment>
             {/* <div className="mini-header float-left w-full h-[30px]">
